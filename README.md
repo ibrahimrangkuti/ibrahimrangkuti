@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ibrahim Rangkuti, a part-time full-stack web developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently study on [SMKN 5 Kab. Tangerang](https://smkn5kabtangerangmauk.sch.id/)  
+- 🔭 I’m currently studied on [SMKN 5 Kab. Tangerang](https://smkn5kabtangerangmauk.sch.id/)  
   
 
 - 😍 I’m currently learning Laravel and ReactJs  
@@ -116,6 +116,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
